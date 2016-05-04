@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=BlueMoon
-Exec=bluemoon %F
-Categories=bluetoth;QT;
+Exec=/usr/bin/telegram-desktop -- %u
+Categories=Qt;AudioVideo;Player;Video;Audio;
 Terminal=false
 Type=Application
 Icon=$HOME/.local/share/icons/scalable_bluemoon.svg
