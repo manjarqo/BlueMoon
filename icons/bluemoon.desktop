@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=BlueMoon
+Exec=bluemoon %F
+Categories=bluetoth;QT;
+Terminal=false
+Type=Application
+Icon=scalable_bluemoon
