@@ -4,4 +4,4 @@ Exec=bluemoon %F
 Categories=bluetoth;QT;
 Terminal=false
 Type=Application
-Icon=scalable_bluemoon
+Icon=$HOME/.local/share/icons/scalable_bluemoon.svg
